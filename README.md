@@ -5,6 +5,8 @@ This repository is a playground to learn how to use dbt with the data mesh parad
 It includes all other data products and is being used to generate dbt docs.
 For the data products source code see [data_product_a](https://github.com/astrafy/dbt-training-data-mesh-dp-a) and [data_product_b](https://github.com/astrafy/dbt-training-data-mesh-dp-b)
 
+Lineage:
+![lineage](images/full-lineage.png)
 
 <p align="center" width="100%">
     <img width="33%" src="https://seeklogo.com/images/D/dbt-logo-500AB0BAA7-seeklogo.com.png">
