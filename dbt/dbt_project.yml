@@ -41,6 +41,9 @@ vars:
 
 models:
   +tags: astrafy_data_mesh_dp_a
+  astrafy_data_mesh_dp_b:
+    +docs:
+      node_color: "#cd7f32"
   astrafy_data_mesh_dp_a:
     jaffle_shop:
       +tags:
